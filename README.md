@@ -32,3 +32,17 @@ Yenny Elizabeth Quiñones Jauregui
 ###### Consulta de Estado de Cuenta/movimientos
 ![flujo-1](https://user-images.githubusercontent.com/31896385/59213878-80d21280-8b7b-11e9-943c-cfca80c4451d.PNG)
 
+###### Alineación de requisitos Negocio/Usuarios/Tecnología
+![1a](https://user-images.githubusercontent.com/31896385/59230675-dd492800-8ba3-11e9-92ca-9d343311ec4f.PNG)
+
+###### Escenario
+![1b](https://user-images.githubusercontent.com/31896385/59230726-04075e80-8ba4-11e9-8d39-7e57e8075d48.PNG)
+
+###### User Person
+![1c](https://user-images.githubusercontent.com/31896385/59230756-24371d80-8ba4-11e9-921e-5effc66b6081.PNG)
+
+
+
+
+
+
