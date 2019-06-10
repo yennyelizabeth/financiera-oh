@@ -24,28 +24,11 @@ fidelidad con el producto: La Tarjeta oh.
 #### Contribuidor
 Yenny Elizabeth Quiñones Jauregui
 
-#### Proceso
+#### Flujo actual
 
-
-
-Descubrir
-
-##### Flujo actual
 ###### Pago
 ![flujo-2](https://user-images.githubusercontent.com/31896385/59215341-a280c900-8b7e-11e9-82ac-74719a6852cf.PNG)
 
 ###### Consulta de Estado de Cuenta/movimientos
 ![flujo-1](https://user-images.githubusercontent.com/31896385/59213878-80d21280-8b7b-11e9-943c-cfca80c4451d.PNG)
-
-
-
-Definir
-
-Idear
-
-Prototipar
-
-Probar
-
-
 
